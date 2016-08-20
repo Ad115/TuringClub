@@ -1,0 +1,8 @@
+Yo propongo que:
+Alguien cree un documento en master con el nombre del programa
+Para el nombre me late que sea "Ej(numero de semana)(numero de problema de la semana)"
+Y que cada quien suba su version en una rama con su nombre
+Posteriormente yo los puedo subir a la UVa para checar que esten bien, aunque seria mejor idea usar el google code jam
+
+
+Carlos
