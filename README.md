@@ -23,7 +23,7 @@ Para nombrar la carpeta el formato será el siguiente:
 
  		s(No. de semana)-p(No. de problema de la semana)-(Nombre del problema)
 
-Como ejemplo, para el problema Crypt Kicker, el primer problema de la semana 2 la carpeta se llama `s2-p1-crypt_kicker`. Además, el nombre es preferentemente con minúsculas y sin espacios (por conveniencia :P).
+Como ejemplo, para el problema Crypt Kicker, el primer problema de la semana 2 la carpeta se llama `s2-p1-crypt_kicker`. Además, el nombre es preferentemente con sin espacios (por conveniencia :P).
 
 
 
