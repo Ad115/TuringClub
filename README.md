@@ -2,13 +2,13 @@
 # **Turing Club**
  Repositorio del club de estudio de algoritmos, programación y otras cosas de la UNAM-UAQ campus Juriquilla. Yay!
 
- Checa la [página del proyecto](https://ad115.github.io/TuringClub/), está muy mona! ~(O.O)~
+ **Checa la [página del proyecto](https://ad115.github.io/TuringClub/), está muy mona! ~(O.O)~**
 
 > Si no sabes ni que p... con **GitHub**, sería bueno que vieras [esto](https://guides.github.com/)
 
 > Si te interesa usar **Git** en tu compu, checa [este bonito tutorial](https://try.github.io/levels/1/challenges/1) :D
 
-> Otras referencias útiles las puedes encontrar [aquí]()
+> Otras referencias útiles las puedes encontrar [aquí](https://ad115.github.io/TuringClub/referencias)
 
 A continuación hay algunas sugerencias para que no nos revolvamos a la hora de subir y presentar nuestras soluciones.
 
