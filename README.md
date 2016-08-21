@@ -58,8 +58,6 @@ Cada quién tendrá una rama propia, con su nombre, donde podrá trabajar con su
 
 Una vez el código en la rama propia funcione se podrá subir a la rama principal, de tal manera que en ésta sólo haya código que ya funcione.
 
-Una vez el código en la rama propia funcione se podrá subir a la rama principal, de tal manera que en ésta sólo haya código que ya funcione.
-
 Esto no quiere decir que una vez en la rama principal el código no se pueda cambiar, siempre se pueden subir nuevas versiones, pero de preferencia **en `master` sólo debe haber soluciones completas**.
 
 
