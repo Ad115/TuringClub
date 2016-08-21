@@ -10,8 +10,6 @@
 
 > Otras referencias útiles las puedes encontrar [aquí](https://ad115.github.io/TuringClub/referencias)
 
-A continuación hay algunas sugerencias para que no nos revolvamos a la hora de subir y presentar nuestras soluciones.
-
 
 ----------
 
@@ -31,6 +29,7 @@ A continuación hay algunas sugerencias para que no nos revolvamos a la hora de 
 
 
 ## Uso del repositorio
+A continuación hay algunas sugerencias para que no nos revolvamos a la hora de subir y presentar nuestras soluciones.
 
 ### Problemas de la semana
 Para cada *Problema de la Semana* habrá una carpeta, donde cada quien subirá su código con su nombre y la extensión correspondiente.
