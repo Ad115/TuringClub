@@ -46,7 +46,7 @@ Continuando con el ejemplo anterior, Andrés García podría subir un archivo co
 
 Cada quién tendrá una rama propia, con su nombre, donde podrá trabajar con sus pruebas y código incompleto. 
 
-Una vez el código en la rama propia funcione se podrá a la rama principal, de tal manera que en ésta sólo haya código que ya funcione. 
+Una vez el código en la rama propia funcione se podrá subir a la rama principal, de tal manera que en ésta sólo haya código que ya funcione. 
 
 Esto no quiere decir que una vez en la rama principal el código no se pueda cambiar, siempre se pueden subir nuevas versiones, pero de preferencia **en `master` sólo debe haber soluciones completas**.
 
