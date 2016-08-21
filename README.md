@@ -1,8 +1,7 @@
 
 # **Turing Club**
- Repositorio del club de estudio de algoritmos, programación y otras cosas de la UNAM-UAQ campus Juriquilla. Yay!
+Página del club de estudio de algoritmos, programación y otras cosas de la UNAM-UAQ campus Juriquilla. Yay!
 
- Checa la [página del proyecto](https://ad115.github.io/TuringClub/), está muy mona! ~(O.O)~
 
 > Si no sabes ni que p... con **GitHub**, sería bueno que vieras [esto](https://guides.github.com/)
 
@@ -10,34 +9,19 @@
 
 > Otras referencias útiles las puedes encontrar [aquí]()
 
+----------
+
+
+## Instrucciones para el uso del repositorio
 A continuación hay algunas sugerencias para que no nos revolvamos a la hora de subir y presentar nuestras soluciones.
 
-
-----------
-
-
-## Contenido
-
-- [Uso del repositorio](#uso-del-repositorio)
-	- [Problemas de la semana](#problemas-de-la-semana)
-	- [Subida de soluciones](#subida-de-soluciones)
-	- [Manejo de ramas](#manejo-de-ramas)
-
-
-- [Finalmente...](#finalmente...)
-
-
-----------
-
-
-## Uso del repositorio
 
 ### Problemas de la semana
 Para cada *Problema de la Semana* habrá una carpeta, donde cada quien subirá su código con su nombre y la extensión correspondiente.
 
 Para nombrar la carpeta el formato será el siguiente:
 
- 		s(Número de semana)-p(Número de problema de la semana)-(Nombre del problema)
+ 		s(No. de semana)-p(No. de problema de la semana)-(Nombre del problema)
 
 Como ejemplo, para el problema Crypt Kicker, el primer problema de la semana 2 la carpeta se llama `s2-p1-crypt_kicker`. Además, el nombre es preferentemente con minúsculas y sin espacios (por conveniencia :P).
 
@@ -65,5 +49,5 @@ Esto no quiere decir que una vez en la rama principal el código no se pueda cam
 
 
 
-## Finalmente...
+### Finalmente...
 Que Turing te acompañe :D
