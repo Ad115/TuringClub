@@ -4,6 +4,7 @@ Página del club de estudio de algoritmos, programación y otras cosas de la UNA
 
 
 ## Referencias útiles
+Con el tiempo esta sección se irá acualizando, asi que échale 0 J 0.
 
 
 ### GitHub
@@ -17,5 +18,3 @@ Página del club de estudio de algoritmos, programación y otras cosas de la UNA
  - Un [bonito tutorial](https://try.github.io/levels/1/challenges/1) de 15 minutos con lo que necesitas para sobrevivir con Git
  - Una [serie de sencillos tutoriales](https://www.atlassian.com/git/) para el uso efectivo de Git
  - La [guía oficial de Git](https://git-scm.com/book/en/v2) para los más hardcore o.o
-
- Con el tiempo esta sección se irá acualizando, asi que échale 0 J 0.
