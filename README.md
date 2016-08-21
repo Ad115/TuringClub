@@ -7,7 +7,7 @@ Página del club de estudio de algoritmos, programación y otras cosas de la UNA
 
 > Si te interesa usar **Git** en tu compu, checa [este bonito tutorial](https://try.github.io/levels/1/challenges/1) :D
 
-> Otras referencias útiles las puedes encontrar [aquí]()
+> Otras referencias útiles las puedes encontrar [aquí](https://ad115.github.io/TuringClub/referencias)
 
 ----------
 
