@@ -2,11 +2,13 @@
 # **Turing Club**
  Repositorio del club de estudio de algoritmos, programación y otras cosas de la UNAM-UAQ campus Juriquilla. Yay!
 
+ Checa la [página del proyecto](https://ad115.github.io/TuringClub/), está muy mona! ~(O.O)~
+
 > Si no sabes ni que p... con **GitHub**, sería bueno que vieras [esto](https://guides.github.com/)
 
 > Si te interesa usar **Git** en tu compu, checa [este bonito tutorial](https://try.github.io/levels/1/challenges/1) :D
 
-> Otras referencias útiles se ncuentran en el archivo [`referencias.md`]() de este mismo repositorio.
+> Otras referencias útiles las puedes encontrar [aquí]()
 
 A continuación hay algunas sugerencias para que no nos revolvamos a la hora de subir y presentar nuestras soluciones.
 
@@ -35,7 +37,7 @@ Para cada *Problema de la Semana* habrá una carpeta, donde cada quien subirá s
 
 Para nombrar la carpeta el formato será el siguiente:
 
-> **s(Número de semana)-p(Número de problema de la semana)-(Nombre del problema)**
+ 		s(Número de semana)-p(Número de problema de la semana)-(Nombre del problema)
 
 Como ejemplo, para el problema Crypt Kicker, el primer problema de la semana 2 la carpeta se llama `s2-p1-crypt_kicker`. Además, el nombre es preferentemente con minúsculas y sin espacios (por conveniencia :P).
 
@@ -55,11 +57,9 @@ Si hay más de un archivo por solución (cosa que dudo suceda), los archivos se 
 
 Cada quién tendrá una rama propia, con su nombre, donde podrá trabajar con sus pruebas y código incompleto.
 
-<<<<<<< HEAD
-Una vez el código en la rama propia funcione se podrá a la rama principal, de tal manera que en ésta sólo haya código que ya funcione.
-=======
 Una vez el código en la rama propia funcione se podrá subir a la rama principal, de tal manera que en ésta sólo haya código que ya funcione.
->>>>>>> 5c6411122e2c75b0b907186e29c84a8da23e8116
+
+Una vez el código en la rama propia funcione se podrá subir a la rama principal, de tal manera que en ésta sólo haya código que ya funcione.
 
 Esto no quiere decir que una vez en la rama principal el código no se pueda cambiar, siempre se pueden subir nuevas versiones, pero de preferencia **en `master` sólo debe haber soluciones completas**.
 
