@@ -12,3 +12,7 @@ Your task is to decrypt several encoded lines of text, assuming that each line u
 The input consists of a line containing an integer *n*, followed by *n* lower case words, one per line, in alphabetical order. These *n* words comprise the dictionary of words which may appear in the decrypted text. Following the dictionary are several lines of input. Each line is encrypted as described above.
 
 There are no more than 1000 words in the dictionary. No word exceeds 16 letters. The encrypted lines contain only lower case letters and spaces and do not exceed 80 characters in length.
+
+## Output
+
+Decrypt each line and print it to standard output. If there are multiple solutions, any one will do. If there is no solutionm replace every letter of the alphabet by an asterisk.
