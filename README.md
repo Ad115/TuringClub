@@ -2,9 +2,23 @@
 # **Turing Club**
  Repositorio del club de estudio de algoritmos, programación y otras cosas de la UNAM-UAQ campus Juriquilla. Yay!
 
-Estoy flipando
-TROLOLOLOLOLLL
-**Solo una, tu o ninguna***
+La wea fome culiao
+c:
+guasa
+nononoononononono
+dsondkljasnlkdsa
+ds
+ad
+sa
+fds
+af
+sdag
+dsag
+sdf
+gsklafmkdsf
+wea
+
+
  **Checa la [página del proyecto](https://ad115.github.io/TuringClub/), está muy mona! ~(O.O)~**
 
 > Si no sabes ni que p... con **GitHub**, sería bueno que vieras [esto](https://guides.github.com/)
