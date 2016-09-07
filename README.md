@@ -2,7 +2,7 @@
 # **Turing Club**
  Repositorio del club de estudio de algoritmos, programación y otras cosas de la UNAM-UAQ campus Juriquilla. Yay!
 
-La wea fome culiao
+Estoy flipando
 
  **Checa la [página del proyecto](https://ad115.github.io/TuringClub/), está muy mona! ~(O.O)~**
 
