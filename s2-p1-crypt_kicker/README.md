@@ -15,7 +15,7 @@ There are no more than 1000 words in the dictionary. No word exceeds 16 letters.
 
 ## Output
 
-Decrypt each line and print it to standard output. If there are multiple solutions, any one will do. If there is no solutionm replace every letter of the alphabet by an asterisk.
+Decrypt each line and print it to standard output. If there are multiple solutions, any one will do. If there is no solution replace every letter of the alphabet by an asterisk.
 
 ## Samples
 
